@@ -25,7 +25,7 @@ Santanu Ghosh: (https://orcid.org/0000-0001-8713-9774)
 
 Rupesh Rajwar: (https://orcid.org/0009-0001-3727-3497)
 
-Sagiraju Shashank Dutt: (https://orcid.org/ 0009-0004-1499-6678)
+Sagiraju Shashank Dutt: (https://orcid.org/0009-0004-1499-6678)
 
 Corresponding Author:
 Prof. Sukha Ranjan Samadder
