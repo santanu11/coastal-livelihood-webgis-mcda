@@ -21,11 +21,11 @@ Department of Environmental Science and Engineering, Indian Institute of Technol
 
 Author ORCID Profiles:
 
-Santanu Ghosh: (https://orcid.org/0000-0002-0037-7030)
+Santanu Ghosh: (https://orcid.org/0000-0001-8713-9774)
 
-Rupesh Rajwar: (https://orcid.org/0000-0002-0037-7030)
+Rupesh Rajwar: (https://orcid.org/0009-0001-3727-3497)
 
-Sagiraju Shashank Dutt: (https://orcid.org/0000-0002-0037-7030)
+Sagiraju Shashank Dutt: (https://orcid.org/ 0009-0004-1499-6678)
 
 Corresponding Author:
 Prof. Sukha Ranjan Samadder
