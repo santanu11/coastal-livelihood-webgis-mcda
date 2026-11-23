@@ -12,6 +12,26 @@ Integrated Farming Systems (IFS)
 
 The framework integrates criterion standardization, FAHP-derived criterion weights and Weighted Linear Combination (WLC) to evaluate livelihood suitability and identify the most suitable livelihood alternative at each location.
 
+**Authors and Affiliations**
+
+Santanu Ghosh, Rupesh Rajwar, Sagiraju Shashank Dutt, and Sukha Ranjan Samadder*
+
+Department of Environmental Science and Engineering, Indian Institute of Technology (Indian School of Mines), Dhanbad, Jharkhand 826004, India.
+
+
+Author ORCID Profiles:
+
+Santanu Ghosh: (https://orcid.org/0000-0002-0037-7030)
+
+Rupesh Rajwar: (https://orcid.org/0000-0002-0037-7030)
+
+Sagiraju Shashank Dutt: (https://orcid.org/0000-0002-0037-7030)
+
+Corresponding Author:
+Prof. Sukha Ranjan Samadder
+Email: samadder@iitism.ac.in
+ORCID: (https://orcid.org/0000-0002-0037-7030)
+
 **Repository Contents**
 
 Livelihood_Suitability_Analysis.js
